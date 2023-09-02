@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article style="padding-top: 4%;">
+    <h1 style="margin-left: 1%;"><a href="https://wikipedia.org/">{{ subject.humanRead }}</a></h1>
+
+    <p style="margin-left: 3%;">
+      {{ subject.blurb.first.blurbText }}
+    </p>
+
+  </article>
+
+  <h2 class="margin">Lectures</h2>
+  <div class="horizontalScrollable">
+    <div class="row flex-row flex-nowrap">
+
+      {% for video in subject.youtubevideo_set.all %}
+      <div class="col-sm-6">
+        <iframe width = "530" height = "300" src="{{video.link}}" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <main>
+    <section class="header container">
+        <div>
+            <h1>Understand Easily </h1>
+            <h4>Click below and Enter the Link..</h4>
+            <div class ="info">
+  <div>
+  <button  id="username" class="btn btn1" onclick="location.href='http://localhost:3000/'">Get Your SUMMARY</button>
+</div>
+</div>
+        </div>
+    </section>
+</main>
+
+  <br/>
+  <h2 class="margin">Notes</h2>
+  <div class="row">
+
+    {% for note in subject.lecturenote_set.all %}
+      <div class="col-sm-4" style="margin-top:4%; margin-bottom: 2%;">
+        <a href="../../notes/{{ note.title }}">
+          <span class="helper"></span><img
+            src="{{ note.image.url }}">
+        </a>
+        <br />
+        <button class="btn btn-primary">Like</button>
+        {{ note.humanRead }}
+      </div>
+
+    {% endfor %}
+
+    <br/>
+    <br/>
+
+
+  </div>
+  {% endblock %}
