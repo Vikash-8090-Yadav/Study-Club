@@ -124,19 +124,33 @@ You all can access this application at localhost:8000
 
 ## Project Gallery 
 
-**NOtes uploaded** 
+#### NOtes uploaded*
 ![Screenshot from 2023-09-03 15-58-36](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/449531b5-436f-4f77-9eac-cc934e470d39)
+### Youtbe scaping 12 video from Title 
 ![Screenshot from 2023-09-03 14-34-42](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/530c4401-fcf7-415d-a016-962a9c73e24e)
+### Youtube summary
 ![Screenshot from 2023-09-03 14-36-06](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/32657366-f938-434e-a9c2-a9da0958faf3)
 
 
-
-
-    
 ## Demo of the Project
 
 
 https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/1a59dde6-4695-420f-aa61-59604fd5e1c4
+
+## License 📜
+
+This project is licensed under the MIT License - see the MIT file for details.
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/Vikash-8090-Yadav"><img src="https://avatars.githubusercontent.com/u/85225156?s=400&u=3363e9db42792ae40a18b3119c745930bb85cf47&v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Vikash Kumar Yadav</h4>
+<a href="https://www.linkedin.com/in/vikash-kumar-yadav-8090/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>
+   </td>
+  
+</tr>
+</table>
+  Made with ❤️ by <b>Nisarg, Riya and Vikash</b>.
+<p/>
 
 
 
