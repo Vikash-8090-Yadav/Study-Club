@@ -121,6 +121,17 @@ You all can access this application at localhost:8000
  ```bash
     npm start
 ```
+
+## Project Gallery 
+
+**NOtes uploaded** 
+![Screenshot from 2023-09-03 15-58-36](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/449531b5-436f-4f77-9eac-cc934e470d39)
+![Screenshot from 2023-09-03 14-34-42](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/530c4401-fcf7-415d-a016-962a9c73e24e)
+![Screenshot from 2023-09-03 14-36-06](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/32657366-f938-434e-a9c2-a9da0958faf3)
+
+
+
+
     
 ## Demo of the Project
 
