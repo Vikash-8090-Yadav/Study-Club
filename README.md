@@ -21,13 +21,13 @@ StudyClub is an innovative course platform that empowers users to create their o
 
 ## Table of Content
 
-- [Features](#features)
+- [Features](#features-📰)
 - [Flow](#challenges-faced)
 - [Features](#features)
 - [Built with](#built-with)
 - [Development Challenges](#development-challenges)
 
-## Features 
+## Features 📰
 
 ### 1. Innovative Content Generation 📰
 StudyClub automates content creation by scraping subject descriptions and lecture videos from the web, making subject creation user-friendly and efficient.
