@@ -5,6 +5,7 @@
 
 StudyClub is an innovative course platform that empowers users to create their own subjects effortlessly. Users simply input the subject name, like "GoLang." Our backend automates content creation by extracting brief descriptions and publicly available lecture videos from the web. The user can also get the summary of the YouTube video present in 4 different languages as well a chatbot to read the content for users.
 
+
 ## Features 🚀
 
 ### 1. Innovative Content Generation 📰
