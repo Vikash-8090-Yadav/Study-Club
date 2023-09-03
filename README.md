@@ -3,7 +3,7 @@
 ![Screenshot from 2023-09-03 14-34-42](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/6f6dd343-cb0b-4fc3-af05-4566f2fc07f6)
 
 
-StudyClub is an innovative course platform that empowers users to create their own subjects effortlessly. Users simply input the subject name, like "Java." Our backend automates content creation by extracting brief descriptions and publicly available lecture videos from the web. The user can also get the summary of the YouTube video present in 4 different languages as well a chatbot to read the content for users.
+StudyClub is an innovative course platform that empowers users to create their own subjects effortlessly. Users simply input the subject name, like "GoLang." Our backend automates content creation by extracting brief descriptions and publicly available lecture videos from the web. The user can also get the summary of the YouTube video present in 4 different languages as well a chatbot to read the content for users.
 
 ## Features 🚀
 
