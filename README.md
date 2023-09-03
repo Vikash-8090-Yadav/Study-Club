@@ -148,15 +148,15 @@ You all can access this application at localhost:8000
 ## Project Gallery 
 
 #### NOtes uploaded*
+![notesupl](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/73f86a1c-67e1-4404-b0ce-e0a07c402f29)
 
-![Screenshot from 2023-09-03 14-36-06](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/7ece3855-abfe-41a4-830d-c76abfaf65d1)
 
 ### Youtbe scaping 12 video from Title 
 ![Screenshot from 2023-09-03 14-34-42](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/5356c8a1-8bb5-412a-b4f4-2a5ef94f3b2c)
 
 ### Youtube summary
+![summary](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/310d29ee-c4b9-4af6-ba7f-d77f374f449f)
 
-![Screenshot from 2023-09-03 14-36-06](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/ac49674c-b45b-4401-884a-63a6b1bb99b2)
 
 ## Demo of the Project
 
