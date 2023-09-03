@@ -21,13 +21,14 @@ StudyClub is an innovative course platform that empowers users to create their o
 
 ## Table of Content
 
-- [Features](#features-📰)
-- [Flow](#challenges-faced)
 - [Features](#features)
-- [Built with](#built-with)
-- [Development Challenges](#development-challenges)
+- [Challenges](#challenges-faced)
+- [Accomplishments ](#accomplishments)
+- [Installation](#Installation )
+- [Project Gallery](#project-gallery)
+- [Demo of the Project](#demo-of-the-project)
 
-## Features 📰
+## Features 
 
 ### 1. Innovative Content Generation 📰
 StudyClub automates content creation by scraping subject descriptions and lecture videos from the web, making subject creation user-friendly and efficient.
@@ -44,7 +45,7 @@ StudyClub enables users to contribute their own materials, fostering a collabora
 ### 5. Revolutionizing Learning 🌍
 Our platform aims to revolutionize how people access and comprehend educational materials, making learning more accessible and efficient across linguistic boundaries.
 
-## Challenges Faced 🤔
+## Challenges Faced 
 We encountered several challenges during the development of StudyClub:
 
 - Data Scraping 🌐: Extracting accurate subject descriptions and lecture videos from various websites was a complex task.
@@ -55,7 +56,7 @@ We encountered several challenges during the development of StudyClub:
 
 - User Contribution 📝: Enabling user-generated content while maintaining content quality and integrity presented challenges.
 
-## Accomplishments 🏆
+## Accomplishments 
 We're proud of the following accomplishments:
 
 - Successful automated content generation system that simplifies subject creation.
@@ -69,7 +70,7 @@ We're proud of the following accomplishments:
 - Aiming to revolutionize education by breaking down language barriers.
 
 
-## Installation 🛠️
+## Installation 
 
 To run StudyClub locally, follow these steps:
 1. 🔱 Clone the repository:
