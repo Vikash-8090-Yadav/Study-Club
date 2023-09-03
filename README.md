@@ -1,6 +1,6 @@
 # StudyClub 📚
 
-![Screenshot from 2023-09-03 14-34-42](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/6f6dd343-cb0b-4fc3-af05-4566f2fc07f6)
+![Screenshot from 2023-09-03 14-34-42](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/5356c8a1-8bb5-412a-b4f4-2a5ef94f3b2c)
 
 
 StudyClub is an innovative course platform that empowers users to create their own subjects effortlessly. Users simply input the subject name, like "GoLang." Our backend automates content creation by extracting brief descriptions and publicly available lecture videos from the web. The user can also get the summary of the YouTube video present in 4 different languages as well a chatbot to read the content for users.
@@ -148,12 +148,15 @@ You all can access this application at localhost:8000
 ## Project Gallery 
 
 #### NOtes uploaded*
-![Screenshot from 2023-09-03 15-58-36](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/449531b5-436f-4f77-9eac-cc934e470d39)
-### Youtbe scaping 12 video from Title 
-![Screenshot from 2023-09-03 14-34-42](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/530c4401-fcf7-415d-a016-962a9c73e24e)
-### Youtube summary
-![Screenshot from 2023-09-03 14-36-06](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/32657366-f938-434e-a9c2-a9da0958faf3)
 
+![Screenshot from 2023-09-03 14-36-06](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/7ece3855-abfe-41a4-830d-c76abfaf65d1)
+
+### Youtbe scaping 12 video from Title 
+![Screenshot from 2023-09-03 14-34-42](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/5356c8a1-8bb5-412a-b4f4-2a5ef94f3b2c)
+
+### Youtube summary
+
+![Screenshot from 2023-09-03 14-36-06](https://github.com/Vikash-8090-Yadav/Study-Club/assets/85225156/ac49674c-b45b-4401-884a-63a6b1bb99b2)
 
 ## Demo of the Project
 
