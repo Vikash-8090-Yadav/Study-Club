@@ -90,7 +90,8 @@ To run StudyClub locally, follow these steps:
 ```
 4. 🔱 To run the API, you need to set up a Virtual Environment.
 ```bash
-python -m venv venv
+python -m venv venv 
+source myenv/bin/activate
 ```
 5. 🔱  Now that you got a Virtual Environment created, it's time to install all the dependencies. Use the following command.
 ```bash
