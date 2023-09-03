@@ -86,7 +86,7 @@ def index():
 
     body = {}
     body['message'] = "Success"
-    body['data'] = "Welcome to YTS API."
+    body['data'] = "Welcome to StudyClub  API."
 
     return buildResponse(body)
 
