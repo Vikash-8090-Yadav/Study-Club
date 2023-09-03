@@ -6,6 +6,26 @@
 StudyClub is an innovative course platform that empowers users to create their own subjects effortlessly. Users simply input the subject name, like "GoLang." Our backend automates content creation by extracting brief descriptions and publicly available lecture videos from the web. The user can also get the summary of the YouTube video present in 4 different languages as well a chatbot to read the content for users.
 
 
+<div align="center">
+ 
+![API](https://img.shields.io/badge/Built_with-API-3C3C3D?logo=api)
+ ![DJANGO](https://img.shields.io/badge/Built_with-Django-092E20?logo=django)
+![FLASK](https://img.shields.io/badge/Built_with-Flask-black?logo=flask)
+![AI/ML](https://img.shields.io/badge/Built_with-AI/ML-FF6F61?logo=machine-learning)
+ ![GOOGLE TRANSLATOR](https://img.shields.io/badge/Powered_by-Google_Translator-4285F4?logo=google-translate)
+ ![REACT](https://img.shields.io/badge/Built_with-React-61DAFB?logo=react)
+ ![TAILWIND CSS](https://img.shields.io/badge/Styled_with-Tailwind_CSS-38B2AC?logo=tailwind-css)
+![NLP](https://img.shields.io/badge/Built_with-NLP-FFD700?logo=natural-language-processing)
+
+</div>
+## Table of Content
+
+- [About](#features)
+- [Flow](#challenges-faced)
+- [Features](#features)
+- [Built with](#built-with)
+- [Development Challenges](#development-challenges)
+
 ## Features 🚀
 
 ### 1. Innovative Content Generation 📰
